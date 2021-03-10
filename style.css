@@ -1,0 +1,22 @@
+.black {
+    height: 5em;
+    background-color: #333333;
+    border: solid 1px white;
+}
+.grey {
+    height: 5em;
+    background-color: white;
+    border: solid 1px white;
+}
+.orange {
+    background-color: orange;
+    border: solid 1px white;
+}
+.yellow {
+    background-color: yellow;
+    border: solid 1px white;
+}
+.boldblack {
+    background-color: black;
+    border: solid 1px white;
+}
